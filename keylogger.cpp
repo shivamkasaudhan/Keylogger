@@ -3,7 +3,6 @@
 #include <windows.h>
 #include <bits/stdc++.h>
 using namespace std;
-
 //log file path 
 #define log_file "Key_logger.txt"
 
